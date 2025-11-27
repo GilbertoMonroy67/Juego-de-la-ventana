@@ -1,0 +1,84 @@
+Introducción:
+
+Texto:
+"La noche ha caído. Son las 11:00 p.m. y te encuentras en tu habitación con la ventana cerrada y las cortinas echadas. Debes mantener tu cordura y resistir hasta las 5:00 a.m., cuando el sol salga y el ente desaparezca."
+
+Desarrollo:
+
+11:00 p.m. - Escena 1: Primeras horas
+Texto:
+"El silencio es perturbador. De repente, a las 11:30 p.m., escuchas un rasguño en la ventana."
+
+Opciones:
+
+Mantenerte inmóvil.
+
+Taparte los oídos.
+
+Gritar o reaccionar con miedo.
+
+12:00 a.m. - Escena 2: La respiración del ente
+Texto:
+"A la medianoche, sientes un aliento frío en tu rostro, un susurro helado que te eriza la piel."
+
+Opciones:
+
+Respirar lentamente y mantener la calma.
+
+Taparte la cara con las manos.
+
+Abrir los ojos y mirar al ente.
+
+1:00 a.m. - Escena 3: El golpe en la ventana
+Texto:
+"A la 1:00 a.m., un golpe fuerte sacude la ventana, y la habitación vibra."
+
+Opciones:
+
+Ignorar el golpe y permanecer inmóvil.
+
+Mirar hacia la ventana con cautela.
+
+Intentar abrir la ventana.
+
+2:30 a.m. - Opción especial: El ente se queda quieto
+Texto:
+"A las 2:30 a.m., de repente, el silencio inunda la habitación. No escuchas nada. El ente parece haberse retirado, pero debes mantenerte alerta."
+
+Opciones:
+
+Mantenerte inmóvil y esperar.
+
+Mirar alrededor con cautela.
+
+Intentar moverte lentamente.
+
+3:00 a.m. - La respiración del ente (de nuevo)
+Texto:
+"A las 3:00 a.m., el aliento frío vuelve a acercarse a ti, helando tu piel."
+
+Opciones:
+
+Respirar lentamente y mantener la calma.
+
+Taparte la cara con las manos.
+
+Abrir los ojos y mirar al ente.
+
+4:00 a.m. - El golpe en la ventana (última vez)
+Texto:
+"A las 4:00 a.m., un golpe final sacude la ventana, haciendo que la habitación tiemble."
+
+Opciones:
+
+Ignorar el golpe y permanecer inmóvil.
+
+Mirar hacia la ventana con cautela.
+
+Intentar abrir la ventana.
+
+Finales:
+
+5:00 a.m. - Amanecer:
+Texto:
+"La luz del sol comienza a filtrarse por la ventana. Has resistido hasta las 5:00 a.m. El ente se ha ido, y has ganado."
