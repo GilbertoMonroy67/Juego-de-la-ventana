@@ -7,6 +7,7 @@
 
 using namespace std;
 
+
 void dramaticPause(int seconds);
 
 struct Scene {
@@ -100,10 +101,10 @@ void showInstructions() {
     cout << "- Tu cordura baja determina la probabilidad de ataque.\n\n";
     
     cout << "Eventos del Ente:\n";
-    cout << "- Rasgunia (-10 cordura)\n";
-    cout << "- Respira en tu cara (-15 cordura)\n";
-    cout << "- Golpea la ventana (-20 cordura)\n";
-    cout << "- Silencio absoluto (posible trampa)\n\n";
+    cout << "- Rasgunia \n";
+    cout << "- Respira en tu cara \n";
+    cout << "- Golpea la ventana \n";
+    cout << "- Silencio absoluto\n\n";
     
     cout << "Presiona Enter para continuar...";
     cin.ignore();
@@ -157,9 +158,9 @@ void startGame() {
     dramaticPause(3);
     
     cout << "\nQue haces?\n";
-    cout << "1. Mantenerte inmovil (-5 cordura)\n";
-    cout << "2. Taparte los oidos (-10 cordura)\n";
-    cout << "3. Gritar o reaccionar con miedo (-15 cordura)\n";
+    cout << "1. Mantenerte inmovil \n";
+    cout << "2. Taparte los oidos \n";
+    cout << "3. Gritar o reaccionar con miedo \n";
     cout << "\nTu Opcion: ";
     int choice;
     cin >> choice;
@@ -204,9 +205,9 @@ void startGame() {
     dramaticPause(3);
     
     cout << "\nQue haces?\n";
-    cout << "1. Respirar lentamente y mantener la calma (-8 cordura)\n";
-    cout << "2. Taparte la cara con las manos (-12 cordura)\n";
-    cout << "3. Abrir los ojos y mirar al ente (-30 cordura)\n";
+    cout << "1. Respirar lentamente y mantener la calma \n";
+    cout << "2. Taparte la cara con las manos \n";
+    cout << "3. Abrir los ojos y mirar al ente \n";
     cout << "\nTu Opcion: ";
     cin >> choice;
     cin.ignore();
@@ -250,9 +251,9 @@ void startGame() {
     dramaticPause(3);
     
     cout << "\nQue haces?\n";
-    cout << "1. Ignorar el golpe y permanecer inmovil (-10 cordura)\n";
-    cout << "2. Mirar hacia la ventana con cautela (-18 cordura)\n";
-    cout << "3. Intentar abrir la ventana (-35 cordura)\n";
+    cout << "1. Ignorar el golpe y permanecer inmovil\n";
+    cout << "2. Mirar hacia la ventana con cautela \n";
+    cout << "3. Intentar abrir la ventana \n";
     cout << "\nTu Opcion: ";
     cin >> choice;
     cin.ignore();
@@ -298,9 +299,9 @@ void startGame() {
     dramaticPause(3);
     
     cout << "\nQue haces?\n";
-    cout << "1. Mantenerte inmovil y esperar (-5 cordura)\n";
-    cout << "2. Mirar alrededor con cautela (-8 cordura)\n";
-    cout << "3. Intentar moverte lentamente (-20 cordura)\n";
+    cout << "1. Mantenerte inmovil y esperar \n";
+    cout << "2. Mirar alrededor con cautela \n";
+    cout << "3. Intentar moverte lentamente \n";
     cout << "\nTu Opcion: ";
     cin >> choice;
     cin.ignore();
@@ -346,9 +347,9 @@ void startGame() {
     dramaticPause(3);
     
     cout << "\nQue haces?\n";
-    cout << "1. Respirar lentamente y mantener la calma (-6 cordura)\n";
-    cout << "2. Taparte la cara con las manos (-14 cordura)\n";
-    cout << "3. Abrir los ojos y mirar al ente (-25 cordura)\n";
+    cout << "1. Respirar lentamente y mantener la calma \n";
+    cout << "2. Taparte la cara con las manos \n";
+    cout << "3. Abrir los ojos y mirar al ente \n";
     cout << "\nTu Opcion: ";
     cin >> choice;
     cin.ignore();
@@ -394,9 +395,9 @@ void startGame() {
     dramaticPause(3);
     
     cout << "\nQue haces?\n";
-    cout << "1. Ignorar el golpe y permanecer inmovil (-8 cordura)\n";
-    cout << "2. Mirar hacia la ventana con cautela (-16 cordura)\n";
-    cout << "3. Intentar abrir la ventana (-28 cordura)\n";
+    cout << "1. Ignorar el golpe y permanecer inmovil \n";
+    cout << "2. Mirar hacia la ventana con cautela \n";
+    cout << "3. Intentar abrir la ventana \n";
     cout << "\nTu Opcion: ";
     cin >> choice;
     cin.ignore();
